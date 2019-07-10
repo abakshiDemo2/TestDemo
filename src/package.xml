@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
@@ -22,3 +23,9 @@
     </types>
     <version>38.0</version>
 </Package>
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>38.0</version>
+</Package>
+>>>>>>> refs/heads/Prod
