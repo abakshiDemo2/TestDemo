@@ -1,5 +1,6 @@
 public class CaseTriggerHandler 
 {
+	//sample comment 
 	static final Map<ID,Schema.RecordTypeInfo> caseRecTypeInfoById = Schema.SObjectType.Case.getRecordTypeInfosById();
 	
 	public CaseTriggerHandler()
