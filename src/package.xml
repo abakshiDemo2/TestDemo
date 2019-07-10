@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CaseTriggerHandler</members>
+        <members>ActionPlanTemplates</members>
+        <members>ActionPlanTemplateDetailController</members>
+        <members>ActionPlanTemplateCreationController</members>
+        <members>ActionPlansUtilitiesTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Action_Plans_Settings__c</members>
+        <members>ActionPlan__c</members>
+        <members>ActionPlanTemplate__c</members>
+        <members>APTaskTemplate__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Chatter Free User</members>
+        <members>Chatter External User</members>
+        <name>Profile</name>
+    </types>
     <version>38.0</version>
 </Package>
